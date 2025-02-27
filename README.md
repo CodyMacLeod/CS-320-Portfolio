@@ -1,8 +1,8 @@
-#How can I ensure that my code, program, or software is functional and secure?
+# How can I ensure that my code, program, or software is functional and secure?
 To ensure your code is functional and secure, one should do proper testing of their software. Utilizing various types of testing at all stages of the software development lifecycle will best ensure minimal defects in your project. This not only includes testing before writing programming such as static coding, but both white box and black box testing techniques. The use of automated tests such as JUnit tests can help catch problems early on in the process.
 
-#How do I interpret user needs and incorporate them into a program?
+# How do I interpret user needs and incorporate them into a program?
 Interpreting user needs is an important part of creating software. Often times a project will come with requirements from the clients/shareholders, and it is important to make sure you understand their needs. Speaking with other team members to make sure you have the same interpretation can be helpful, as can speaking with end users through interviews or testing. Once you've understood the requirements, you can set up proper tests to ensure you are meeting them throughout the development process.
 
-#How do I approach designing software?
+# How do I approach designing software?
 I approach designing software with a focus on meeting the requirements in mind and with a flexibility to make changes as needed. Being susceptible to feedback and not taking changes needed personally will result in a much more functional and secure product. Utilizing proper testing techniques throughout the whole process rather than just towards the end will also make a huge difference in how easy problems can be to fix since they'll be found earlier.
